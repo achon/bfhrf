@@ -1,5 +1,5 @@
 # BFHRF
-> A command line utility to compute the most parsimonious tree(s) given a collection of Query (Q) and Reference (R) trees for a given number of species (n).  The output is the average traditional Robinson-Foulds (RF) value for each query tree against the reference collection.
+> A command line utility to aid in the computation of the most parsimonious tree(s) given a collection of Query (Q) and Reference (R) trees for a given number of species (n).  The output is the average traditional Robinson-Foulds (RF) value for each query tree against the reference collection.  This can be used to identify candidate species trees or trees for refinement with NNIs or SPRs. 
 
 ## Table of Contents
 
