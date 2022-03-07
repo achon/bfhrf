@@ -52,8 +52,6 @@ Average RF distance of each tree vs all trees (newick) in a file, trees.tre, all
 
 ## Data
 Included are all the data files used in the paper.  See the paper for details.
-> [Data and scripts from the paper](https://github.com/achon/bfhrf_data)
-
 
 ## Reference
 > [Scalable and Extensible Robinson-Foulds for Comparative Phylogenetics, Chon et al, accepted HiCOMB 2022]
